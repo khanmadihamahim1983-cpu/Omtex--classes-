@@ -1,0 +1,6 @@
+{
+  "name": "OMTEX CLASSES - Premium Educational Platform",
+  "description": "Premium cinematic educational website for OMTEX CLASSES featuring Maharashtra SSC, HSC, Commerce, curated study materials, question papers, and admin resource hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
